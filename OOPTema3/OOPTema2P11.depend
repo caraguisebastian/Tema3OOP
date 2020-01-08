@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578492068 source:c:\users\truff\desktop\cb\ooptema2p11\main.cpp
+	<iostream>
+	<string.h>
+	<queue>
+	<typeinfo>
+	<vector>
+
